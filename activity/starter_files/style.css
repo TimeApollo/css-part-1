@@ -8,6 +8,7 @@ html{
     border-color: red;
     float: left;
     width: 49%;
+    height: 100%;
 }
 .mainDetails{
     text-align: left;
