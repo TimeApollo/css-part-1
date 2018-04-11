@@ -1,0 +1,18 @@
+html{
+    font-family: serif;
+    
+}
+#name{
+    border-style: double;
+    border-width: 10px;
+    border-color: red;
+    float: left;
+    width: 49%;
+}
+.mainDetails{
+    text-align: left;
+}
+.sectionTitle{
+    color: red;
+    font-size: 3em;
+}
